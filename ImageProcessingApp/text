@@ -1,0 +1,24 @@
+## Gereksinimler
+- Python 3.x
+- PyQt5
+- OpenCV (cv2)
+- NumPy
+- Pillow
+- Matplotlib
+
+## Kullanım
+1. Uygulamayı başlattığınızda, bir görüntü yüklemek için "Görüntü Yükle" butonuna tıklayın.
+2. Farklı işlemleri (parlaklık ayarı, kenar bulma, vb.) arayüzdeki butonlarla uygulayın.
+3. İşlemlerinizi kaydedebilir, geriye veya ileri alarak düzenlemelerinizi kontrol edebilirsiniz.
+
+## Katkıda Bulunma
+Bu proje açık kaynaklıdır. Eğer katkıda bulunmak isterseniz:
+- Depoyu fork edin.
+- Yeni özellikler ekleyin veya hataları düzeltin.
+- Pull request gönderin.
+
+## Lisans
+Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+
+## İletişim
+Herhangi bir soru veya öneri için [agtencu@gmail.com] üzerinden iletişime geçebilirsiniz.
