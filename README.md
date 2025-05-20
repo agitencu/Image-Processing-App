@@ -1,16 +1,16 @@
 # ImageProcessingApp
 
-Bu proje, PyQt5 kullanılarak geliştirilmiş bir görüntü işleme uygulamasıdır. Kullanıcı dostu bir arayüz üzerinden çeşitli görüntü işleme işlemlerini kolayca gerçekleştirebilirsiniz. Proje, temel görüntü manipülasyonlarından gelişmiş işlemlere kadar geniş bir yelpazede özellikler sunar.
+This project is an image processing application developed using PyQt5. You can easily perform various image processing operations through a user-friendly interface. The project offers a wide range of features from basic image manipulations to advanced operations.
 
-## Özellikler
-- **Görüntü Yükleme ve Kaydetme:** PNG, JPG, JPEG ve BMP formatlarında görüntüleri yükleyip kaydedebilirsiniz.
-- **Parlaklık ve Kontrast Ayarı:** Görüntü parlaklığını artırıp azaltabilir, kontrastı ayarlayabilirsiniz.
-- **Gri Tonlama ve Renk Kanalları:** Görüntüyü gri tonlamaya çevirebilir, RGB kanallarını ayrı ayrı görüntüleyebilirsiniz.
-- **Geometrik Dönüşümler:** Görüntüyü döndürme, aynalama, eğme ve ölçeklendirme işlemleri yapabilirsiniz.
-- **Şekil Çizimi:** Dörtgen, daire, elips ve çokgen çizerek çerçeve oluşturabilir, çerçeve dışını kırpabilirsiniz.
-- **Filtreleme:** Görüntüyü bulanıklaştırma ve netleştirme işlemleri uygulayabilirsiniz.
-- **Kenar Algılama:** Canny ve Sobel algoritmaları ile kenar bulma yapabilirsiniz.
-- **Kapalı Alan İşlemleri:** Kapalı alanları renklendirebilir, asındırma ve genişletme işlemleri yapabilirsiniz.
-- **İki Görüntü Üzerinde İşlemler:** İki görüntüyü toplama, çıkarma ve mantıksal operatörler (AND, NAND, OR, NOR, XOR) ile birleştirme yapabilirsiniz.
-- **Arka Plan Çıkarma:** Görüntüden arka planı çıkarabilir, ağaç-gölge birleştirme gibi özel işlemler yapabilirsiniz.
-- **Geçmiş ve İleri Alma:** Geriye ve ileri alma ile işlemlerinizi kolayca yönetebilirsiniz.
+## Features
+- **Image Loading and Saving:** You can load and save images in PNG, JPG, JPEG and BMP formats.
+- **Brightness and Contrast Adjustment:** You can increase or decrease the image brightness, adjust the contrast.
+- **Grayscale and Color Channels:** You can convert the image to grayscale, and view the RGB channels separately.
+- **Geometric Transformations:** You can rotate, mirror, tilt and scale the image.
+- **Shape Drawing:** You can create frames by drawing rectangles, circles, ellipses and polygons, and crop outside the frame.
+- **Filtering:** You can apply blurring and sharpening operations to the image.
+- **Edge Detection:** You can find edges with Canny and Sobel algorithms.
+- **Closed Area Operations:** You can color closed areas, perform erosion and expansion operations.
+- **Operations on Two Images:** You can add, subtract and combine two images with logical operators (AND, NAND, OR, NOR, XOR).
+- **Background Subtraction:** You can remove the background from the image, perform special operations such as tree-shadow merging.
+- **History and Forward:** You can easily manage your operations with undo and forward.
