@@ -1,4 +1,4 @@
-## Gereksinimler
+## Requirements
 - Python 3.x
 - PyQt5
 - OpenCV (cv2)
@@ -6,19 +6,20 @@
 - Pillow
 - Matplotlib
 
-## Kullanım
-1. Uygulamayı başlattığınızda, bir görüntü yüklemek için "Görüntü Yükle" butonuna tıklayın.
-2. Farklı işlemleri (parlaklık ayarı, kenar bulma, vb.) arayüzdeki butonlarla uygulayın.
-3. İşlemlerinizi kaydedebilir, geriye veya ileri alarak düzenlemelerinizi kontrol edebilirsiniz.
+## Usage
+1. When you start the application, click on the "Load Image" button to load an image.
 
-## Katkıda Bulunma
-Bu proje açık kaynaklıdır. Eğer katkıda bulunmak isterseniz:
-- Depoyu fork edin.
-- Yeni özellikler ekleyin veya hataları düzeltin.
-- Pull request gönderin.
+2. Perform different operations (brightness adjustment, edge detection, etc.) with the buttons in the interface.
+3. You can save your operations, undo or redo them, and check your edits.
 
-## Lisans
-Bu proje MIT Lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosyasına bakabilirsiniz.
+## Contribute
+This project is open source. If you want to contribute:
+- Fork the repository.
+- Add new features or fix bugs.
+- Submit a pull request.
 
-## İletişim
-Herhangi bir soru veya öneri için [agtencu@gmail.com] üzerinden iletişime geçebilirsiniz.
+## License
+This project is licensed under the MIT License. For details, see the `LICENSE` file.
+
+## Contact
+For any questions or suggestions, please contact [agtencu@gmail.com].
